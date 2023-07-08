@@ -47,7 +47,6 @@ public class PlayerTies2Test {
         Assert.assertEquals(expected, actual);
     }
 
-
     @Test
     public void isInFavorOfPlayerXTest() {
         // Given
@@ -59,6 +58,7 @@ public class PlayerTies2Test {
         // Then
         Assert.assertEquals(expected, actual);
     }
+
 
     @Test
     public void isTieTest() {
